@@ -1,7 +1,7 @@
 # datascience_01
 
 
-Contains all the initial and basic projects completed by me.
+Contains initial challenges and ml problems finished by me in hackathons.
 1. KNN on Iris dataset- Implementation of K nearest alogorithm on the Iris dataset.
 2. Bikesharing- Solving bikesharing problem to predict the count of bikes on hourly basis using Linear Regression
 3. DecisionTrees_Employee- Classifying employees into their salary bands using decisiion trees.
